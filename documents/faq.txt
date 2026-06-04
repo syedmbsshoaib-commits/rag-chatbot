@@ -1,17 +1,38 @@
-Company: TechCorp
-Product: CloudStore - a cloud storage service
+Product: MacBook
+Manufacturer: Apple
 
-Q: How much storage do I get on the free plan?
-A: The free plan includes 10GB of storage.
+Q: What MacBook models are currently available?
+A: Apple currently sells the MacBook Air (13-inch and 15-inch with M3 chip) and MacBook Pro (14-inch and 16-inch with M3, M3 Pro, or M3 Max chip). The MacBook Air is thinner and fanless, ideal for everyday use. The MacBook Pro is for power users needing sustained performance.
 
-Q: What payment methods do you accept?
-A: We accept Visa, Mastercard, and PayPal.
+Q: How long does MacBook battery last?
+A: MacBook Air M3 lasts up to 18 hours. MacBook Pro 14-inch lasts up to 18 hours. MacBook Pro 16-inch lasts up to 22 hours. Battery life varies based on usage — video streaming, heavy apps, and high brightness reduce it significantly.
 
-Q: How do I reset my password?
-A: Go to the login page and click "Forgot Password". You'll receive an email within 2 minutes.
+Q: How do I extend my MacBook battery life?
+A: Lower screen brightness, enable Low Power Mode in System Settings > Battery, turn off Wi-Fi and Bluetooth when not needed, quit unused apps, and avoid keeping it plugged in at 100% constantly. MacBook also has an Optimised Battery Charging feature that learns your habits.
 
-Q: Is my data encrypted?
-A: Yes, all data is encrypted at rest and in transit using AES-256 encryption.
+Q: How much storage do I need?
+A: 256GB is the minimum but fills up quickly. 512GB suits most users comfortably. 1TB is recommended if you store videos, photos, or large files. Storage cannot be upgraded after purchase, so choose carefully.
 
-Q: How do I cancel my subscription?
-A: Go to Settings > Billing > Cancel Subscription. Your data is kept for 30 days after cancellation.
+Q: How much RAM do I need?
+A: 8GB handles everyday tasks like browsing and documents. 16GB is better for multitasking, light video editing, or running virtual machines. 24GB or more suits professional video editing, coding, or running AI models. RAM cannot be upgraded after purchase.
+
+Q: What ports does the MacBook have?
+A: MacBook Air M3 has two Thunderbolt/USB-4 ports and a MagSafe charging port. MacBook Pro adds an HDMI port, SD card slot, and up to three Thunderbolt 4 ports. All models have a headphone jack.
+
+Q: How do I factory reset my MacBook?
+A: Go to Apple menu > System Settings > General > Transfer or Reset > Erase All Content and Settings. This wipes everything and reinstalls macOS. Back up with Time Machine first.
+
+Q: How do I back up my MacBook?
+A: Use Time Machine with an external drive — go to System Settings > General > Time Machine and select your drive. Alternatively use iCloud backup by enabling iCloud Drive in System Settings > Apple ID > iCloud.
+
+Q: What is AppleCare+ and is it worth it?
+A: AppleCare+ extends warranty to 3 years and covers accidental damage (screen cracks, liquid damage) for a service fee. Standard warranty is 1 year. It costs around £149-£249 depending on model. Worth it if you travel frequently or are prone to accidents.
+
+Q: My MacBook is running slow. How do I fix it?
+A: Restart it first. Then check Activity Monitor (Applications > Utilities) to see what's using CPU or memory. Quit unused apps, clear browser cache, and check available storage — Macs slow down when storage is nearly full. If still slow, resetting SMC or reinstalling macOS may help.
+
+Q: How do I connect a MacBook to an external monitor?
+A: Use a USB-C or Thunderbolt cable for direct connection, or a USB-C hub/adapter for HDMI monitors. MacBook Air M3 supports one external display. MacBook Pro supports two or more external displays depending on the chip.
+
+Q: What is the difference between MacBook Air and MacBook Pro?
+A: MacBook Air is fanless, lighter, and thinner — great for everyday tasks. It cannot sustain heavy workloads for long periods without throttling. MacBook Pro has active cooling fans, brighter display, more ports, and handles sustained heavy workloads like video rendering and coding without slowing down.
