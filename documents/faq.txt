@@ -1,0 +1,17 @@
+Company: TechCorp
+Product: CloudStore - a cloud storage service
+
+Q: How much storage do I get on the free plan?
+A: The free plan includes 10GB of storage.
+
+Q: What payment methods do you accept?
+A: We accept Visa, Mastercard, and PayPal.
+
+Q: How do I reset my password?
+A: Go to the login page and click "Forgot Password". You'll receive an email within 2 minutes.
+
+Q: Is my data encrypted?
+A: Yes, all data is encrypted at rest and in transit using AES-256 encryption.
+
+Q: How do I cancel my subscription?
+A: Go to Settings > Billing > Cancel Subscription. Your data is kept for 30 days after cancellation.
